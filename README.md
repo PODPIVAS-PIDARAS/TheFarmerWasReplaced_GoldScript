@@ -1,2 +1,2 @@
-# TheFarmerWasReplaced_GoldScript
-A script for the most profitable gold farming
+# TheFarmerWasReplaced_GoldScripts
+Script for the most profitable mining of gold and other resources
